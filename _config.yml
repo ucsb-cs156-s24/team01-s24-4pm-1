@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s24/team01-s24-4pm-1
 owner: ucsb-cs156-s24
 repo_name: team01-s24-4pm-1
-pull_requests: [{"author":{"id":"MDQ6VXNlcjkwOTg2OTAy","is_bot":false,"login":"miguel-luis9","name":""},"headRefName":"Luis-Location-Controller","number":26,"title":"Add Location Service and Controller","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/26"},{"author":{"id":"U_kgDOB7yP8g","is_bot":false,"login":"RuizheJiang","name":""},"headRefName":"Ruizhe-Zipcode-Controller","number":25,"title":"rj - add zipcode controller and test","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/25"}]
+pull_requests: [{"author":{"id":"U_kgDOB7yP8g","is_bot":false,"login":"RuizheJiang","name":""},"headRefName":"Ruizhe-Zipcode-Controller","number":25,"title":"rj - add zipcode controller and test","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/25"}]
