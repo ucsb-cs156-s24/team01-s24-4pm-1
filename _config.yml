@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s24/team01-s24-4pm-1
 owner: ucsb-cs156-s24
 repo_name: team01-s24-4pm-1
-pull_requests: [{"author":{"id":"U_kgDOBmDgZA","is_bot":false,"login":"Frank404NotFound","name":"Frank Zhong"},"headRefName":"revert-20-Frank-JokeService-Controller","number":28,"title":"Revert \"Frank joke service controller\"","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/28"},{"author":{"id":"U_kgDOB7yP8g","is_bot":false,"login":"RuizheJiang","name":""},"headRefName":"Ruizhe-Zipcode-Controller","number":25,"title":"rj - add zipcode controller and test","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/25"}]
+pull_requests: [{"author":{"id":"U_kgDOB7yP8g","is_bot":false,"login":"RuizheJiang","name":""},"headRefName":"Ruizhe-Zipcode-Controller","number":25,"title":"rj - add zipcode controller and test","url":"https://github.com/ucsb-cs156-s24/team01-s24-4pm-1/pull/25"}]
