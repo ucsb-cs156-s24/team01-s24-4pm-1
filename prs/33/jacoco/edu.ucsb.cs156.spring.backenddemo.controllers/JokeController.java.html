@@ -37,9 +37,9 @@ import io.swagger.v3.oas.annotations.tags.Tag;
         @Parameter(name=&quot;category&quot;, description=&quot;category of joke, e.g. 'Programming' or 'Spooky'&quot;) @RequestParam String category,
         @Parameter(name=&quot;numJokes&quot;, description=&quot;# of jokes to get, e.g. '1' or '2'&quot;) @RequestParam int numJokes
     ) throws JsonProcessingException {
-<span class="nc" id="L40">        log.info(&quot;getJokes: category={} numJokes={}&quot;, category, numJokes);</span>
-<span class="nc" id="L41">        String result = JokeQueryService.getJSON(category, numJokes);</span>
-<span class="nc" id="L42">        return ResponseEntity.ok().body(result);</span>
+<span class="fc" id="L40">        log.info(&quot;getJokes: category={} numJokes={}&quot;, category, numJokes);</span>
+<span class="fc" id="L41">        String result = JokeQueryService.getJSON(category, numJokes);</span>
+<span class="fc" id="L42">        return ResponseEntity.ok().body(result);</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>
