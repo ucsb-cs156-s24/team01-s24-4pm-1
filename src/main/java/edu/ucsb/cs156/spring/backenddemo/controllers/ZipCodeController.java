@@ -21,7 +21,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 @Tag(name="Zip Code Information from http://www.zippopotam.us/")
 @Slf4j
 @RestController
-@RequestMapping("/api/zipcode/get")
+@RequestMapping("/api/zipcode")
 public class ZipCodeController {
     ObjectMapper mapper = new ObjectMapper();
 
